@@ -6,9 +6,8 @@
 
 [![Freelancer Preview](https://startbootstrap.com/assets/img/screenshots/themes/freelancer.png)](https://blackrockdigital.github.io/startbootstrap-freelancer/)
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-freelancer/)**
+## 닷홈을 이용한 호스팅
 
-##닷홈을 이용한 호스팅  
 [http://pjw9195.dothome.co.kr/](http://pjw9195.dothome.co.kr/).
 
 ## Status
